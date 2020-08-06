@@ -1,4 +1,4 @@
-# Short Arduino script for measuring [Smart Greenhouse](https://github.com/case112/smart-greenhouse "Github Link") battery voltage level
+# Short Arduino script for measuring 12V lead acid battery voltage
 
 ![Schematic](arduino-schema.png)
 

@@ -2,7 +2,6 @@ import serial
 import time
 import sys
 
-
 def voltage_state():
 
     counter = 0
